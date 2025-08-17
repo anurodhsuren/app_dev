@@ -1,4 +1,4 @@
-# dice_app
+# magic_8
 
 A new Flutter project.
 
